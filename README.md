@@ -143,5 +143,3 @@ my-app/
 **Dev dependencies:**
 
 - zod, standard-version
-# create-my-next-starter
-# create-my-next-starter

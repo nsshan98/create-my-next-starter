@@ -1,0 +1,37 @@
+{
+  "name": "create-my-next-starter",
+  "version": "1.0.0",
+  "description": "A custom Next.js boilerplate CLI with optional Tailwind, ShadCN UI, or Material UI setup",
+  "bin": {
+    "create-my-next-starter": "index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "nextjs",
+    "cli",
+    "boilerplate",
+    "tailwind",
+    "shadcn",
+    "material-ui",
+    "create-next-app"
+  ],
+  "author": "Your Name <you@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsshan98/create-my-next-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nsshan98/create-my-next-starter/issues"
+  },
+  "homepage": "https://github.com/nsshan98/create-my-next-starter#readme",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
