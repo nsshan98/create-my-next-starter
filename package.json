@@ -1,6 +1,6 @@
 {
   "name": "create-my-next-starter",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "A custom Next.js boilerplate CLI with optional Tailwind, ShadCN UI, or Material UI setup",
   "bin": {
     "create-my-next-starter": "./index.js"
